@@ -1,5 +1,5 @@
 {
-  "name": "kartik-v/yii2-number",
+  "name": "izisoft/yii2-number",
   "description": "Number control and format mask input for Yii2 Framework.",
   "keywords": [
     "yii2",
@@ -11,7 +11,7 @@
     "mask",
     "number control"
   ],
-  "homepage": "https://github.com/kartik-v/yii2-number",
+  "homepage": "https://github.com/izisoft/yii2-number",
   "type": "yii2-extension",
   "license": "BSD-3-Clause",
   "authors": [
@@ -22,7 +22,7 @@
     }
   ],
   "require": {
-    "kartik-v/yii2-krajee-base": "~1.7"
+    "izisoft/yii2-krajee-base": "~1.7"
   },
   "autoload": {
     "psr-4": {
