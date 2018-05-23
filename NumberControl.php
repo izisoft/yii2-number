@@ -1,24 +1,11 @@
 <?php
-
-/**
- * @package   yii2-number
- * @author    Kartik Visweswaran <kartikv2@gmail.com>
- * @copyright Copyright &copy; Kartik Visweswaran, Krajee.com, 2018
- * @version   1.0.1
- */
-
-namespace kartik\number;
+namespace izisoft\number;
 
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
-use kartik\base\InputWidget;
+use izisoft\base\InputWidget;
 
-/**
- * Number control widget
- *
- * @author Kartik Visweswaran <kartikv2@gmail.com>
- * @since 1.0
- */
+
 class NumberControl extends InputWidget
 {
     /**

@@ -1,22 +1,8 @@
 <?php
+namespace izisoft\number;
 
-/**
- * @package   yii2-number
- * @author    Kartik Visweswaran <kartikv2@gmail.com>
- * @copyright Copyright &copy; Kartik Visweswaran, Krajee.com, 2018
- * @version   1.0.1
- */
+use izisoft\base\AssetBundle;
 
-namespace kartik\number;
-
-use kartik\base\AssetBundle;
-
-/**
- * Asset bundle for the [[NumberControl]] widget.
- *
- * @author Kartik Visweswaran <kartikv2@gmail.com>
- * @since 1.0
- */
 class NumberControlAsset extends AssetBundle
 {
     /**
